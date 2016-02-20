@@ -1,5 +1,5 @@
 cask 'sublime-text-dev' do
-  version '3102'
+  version '3105'
   sha256 '35b41b67249ba2e8d44c70936547199f6509c248dc2f2e5b751f30c7b611c789'
 
   url "https://download.sublimetext.com/Sublime%20Text%20Build%20#{version}.dmg"
